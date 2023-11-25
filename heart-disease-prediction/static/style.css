@@ -6,48 +6,33 @@
 }
 .container-A{
     color: white;
-    /* padding-top: 40px; */
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
     align-items: center;
-    /* background: center/cover no-repeat url("atrial-fibrillation-7832673_1280.webp"); */
     padding:20px;
     height: 597px;
     font-size: 16px;
     margin:100px 20px;
-    /* margin-left:20px; */
-    /* background-color: red; */
     font-family: 'ZCOOL QingKe HuangYou', sans-serif;
-    /* flex:1; */
+   
    
 }
 .container-B{
     color: white;
     padding:40px;
-    /* padding-top: 40px; */
     display: flex;
     flex-direction: column;
-    /* width:200px; */
-    /* justify-content: center; */
     align-items: center;
-    /* background: center/cover no-repeat url("atrial-fibrillation-7832673_1280.webp"); */
     margin:100px 20px;
-    /* margin-left:20px; */
     height: 597px;
     font-size: 16px;
-    /* background-color: red; */
     font-family: 'ZCOOL QingKe HuangYou', sans-serif;
-    
     flex:1; 
 }
 
 body{
     background: center/cover no-repeat url("heart-66881_1280.jpg");
     color:white;
-    /* margin: 43px 0px; */
-    /* text-align: center; */
-    /* height:100px; */
 }
 h1{
     text-align: center;
@@ -56,9 +41,7 @@ h1{
 .myForm{
     display:flex;
     margin-left:20px;
-    /* flex:1; */
     flex-direction: column;
-    /* justify-content: center; */
     align-items: center;
     width: 100%;
 }
