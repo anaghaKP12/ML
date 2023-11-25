@@ -1,0 +1,94 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.container-A{
+    color: white;
+    /* padding-top: 40px; */
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    /* background: center/cover no-repeat url("atrial-fibrillation-7832673_1280.webp"); */
+    padding:20px;
+    height: 597px;
+    font-size: 16px;
+    margin:100px 20px;
+    /* margin-left:20px; */
+    /* background-color: red; */
+    font-family: 'ZCOOL QingKe HuangYou', sans-serif;
+    /* flex:1; */
+   
+}
+.container-B{
+    color: white;
+    padding:40px;
+    /* padding-top: 40px; */
+    display: flex;
+    flex-direction: column;
+    /* width:200px; */
+    /* justify-content: center; */
+    align-items: center;
+    /* background: center/cover no-repeat url("atrial-fibrillation-7832673_1280.webp"); */
+    margin:100px 20px;
+    /* margin-left:20px; */
+    height: 597px;
+    font-size: 16px;
+    /* background-color: red; */
+    font-family: 'ZCOOL QingKe HuangYou', sans-serif;
+    
+    flex:1; 
+}
+
+body{
+    background: center/cover no-repeat url("heart-66881_1280.jpg");
+    color:white;
+    /* margin: 43px 0px; */
+    /* text-align: center; */
+    /* height:100px; */
+}
+h1{
+    text-align: center;
+    margin: 12px 0;
+}
+.myForm{
+    display:flex;
+    margin-left:20px;
+    /* flex:1; */
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    width: 100%;
+}
+
+input,select{
+    font-size:16px;
+    width: 30%;
+    padding: 9px;
+    margin: 8px;
+    border: 2px solid white;
+    border-radius: 12px;
+    outline: none;
+    background-color: rgba(255, 255, 255, 0.2);
+    color:white;
+}
+option{
+    color:black;
+}
+label{
+    display: block;
+}
+
+.btn{
+    padding: 12px 16px;
+    font-size: 18px;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: white;
+    background: #151414;
+    cursor: pointer;
+    margin-top: 2px;
+    outline: none;
+} 
